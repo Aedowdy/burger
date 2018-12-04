@@ -1,5 +1,5 @@
 {
-  "name": "express-handlebars",
+  "name": "",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,6 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "msql": "^1.0.3"
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.12",
+    "method-override": "^3.0.0",
+    "msql": "^1.0.3",
+    "mysql": "^2.16.0"
   }
 }
